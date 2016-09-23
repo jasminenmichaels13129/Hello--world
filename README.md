@@ -1,2 +1,5 @@
 # Hello--world
-Just another respository
+
+Hello EVERYONE!
+
+Jasmine here and i am currently learning how to use GitHub.
